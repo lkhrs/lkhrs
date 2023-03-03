@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lkhrs
 - 👀 I’m interested in web development, standards, and automation
 - 🌱 I’m currently learning JavaScript and DevOps
-- 💞️ I’m looking to collaborate on cool stuff
 - 📫 How to reach me: https://www.lkhrs.com
 
 <!---
