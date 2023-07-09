@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @lkhrs
-- 👀 I’m interested in web development, standards, and automation
-- 🌱 I’m currently learning JavaScript and DevOps
-- 📫 How to reach me: https://www.lkhrs.com
+wow check out this wild website I found just laying around: https://www.lkhrs.com
 
 <!---
 lkhrs/lkhrs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
